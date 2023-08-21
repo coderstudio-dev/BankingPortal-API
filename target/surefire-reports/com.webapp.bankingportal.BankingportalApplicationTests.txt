@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.webapp.bankingportal.BankingportalApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.982 s - in com.webapp.bankingportal.BankingportalApplicationTests
